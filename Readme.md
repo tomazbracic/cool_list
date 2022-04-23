@@ -28,6 +28,30 @@ pa tole -> https://hexdocs.pm/flow/Flow.html
 https://github.com/sorentwo/oban
 https://vernemq.com/
 
+LIVEVIEW
+liveview je res nora zadeva... poglej tukaj imas nekaj videov tudi zastonj
+https://pragmaticstudio.com/phoenix-liveview
+tale Alvise ima tudi top shit bloge in tudi Liveview course
+https://www.poeticoding.com/
+Valasco ima testing liveview course
+https://courses.germanvelasco.com/view/courses/testing-liveview
+Bruce ima grox.io
+kjer ima top course. glej -> elixir, liveview, NX, julija, Livebook!!!
+
+Livebook je res stvar na steroidih :)
+https://livebook.dev/
+Z livebookom se loh povezes tudi na periferijo na hardwareu in v realtimeu furas stvari... ko kaj probavas
+
+Na to foro je tudi kar nekaj produktov. 
+https://github.com/koudelka/visualixir
+
+DISTRIBUTION - out of the box
+https://elixirschool.com/en/lessons/advanced/otp_distribution
+https://github.com/bitwalker/libcluster
+https://bigardone.dev/blog/2021/05/22/three-real-world-examples-of-distributed-elixir-pt-1
+Ta ima res hude poste... npr. https://www.poeticoding.com/distributed-phoenix-chat-with-pubsub-pg2-adapter/
+
+
 DATA
 https://github.com/elixir-nx
 https://github.com/elixir-nx/nx
@@ -35,6 +59,9 @@ https://github.com/elixir-nx/axon
 
 IoT
 https://www.nerves-project.org/
+https://elixir-lang.org/blog/2020/08/20/embedded-elixir-at-farmbot/ -> poglej si ta Farmbot... :)
+tukaj imas na prvi strani video
+https://farm.bot/
 
 
 ### CASES
